@@ -1,7 +1,8 @@
 # vue-shop
 
 ### Login Page
-<img src="https://github.com/chengqunlin/vue-shop/tree/master/image/1662049949115.png" alt="1662049949115" style="zoom:60%;" />
+<img src="https://raw.githubusercontent.com/chengqunlin/vue-shop/master/image/1662049949115.png" alt="1662049949115" style="zoom:60%;" />
+
 
 ### Home Page
 
